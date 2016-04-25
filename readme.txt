@@ -8,4 +8,8 @@ modify this file.
 
 current work;
 
+<<<<<<< HEAD
 在dev分支添加了新的内容.
+=======
+other add text.
+>>>>>>> 75e3ed42949a505135d3a8c59f8ef464e0c310cc
